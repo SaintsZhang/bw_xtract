@@ -1,0 +1,6 @@
+{
+  "ao_file" : "C:/Saints/AO-BW_QRY_MVCOPA01_0001.xlsx",
+  "ao_file_tech_tab" : "Technical Info",
+  "mode": "MDX",
+  "source.json": "C:/Saints/Application/Python/PyCharm/pytutorial/sz/ao-xtract/source.json"
+}
