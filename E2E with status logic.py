@@ -7,7 +7,7 @@ End-to-end: trigger XTRACT -> wait run -> wait stable parquet -> upload to GCS -
 Default XTRACT server base is set to:
   http://acew1pxtraxus01:8085
 """
-
+#test git
 import os
 import sys
 import json
